@@ -33,6 +33,7 @@ namespace ConsoleAp0
             if (root != null)
                 root.PostorderTraversal();
         }
+        
         public int Height()
         {
             if (root == null)
