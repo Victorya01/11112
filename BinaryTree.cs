@@ -28,6 +28,7 @@ namespace ConsoleAp0
             if (root != null)
                 root.PreOrderTraversal();
         }
+        
         public void PostorderTraversal()
         {
             if (root != null)
