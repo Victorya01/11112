@@ -40,6 +40,7 @@ namespace ConsoleAp0
             { return 0; }
 
             return root.Height();
+            
         }
         public bool IsBalanced()
         {
